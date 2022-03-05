@@ -7,7 +7,8 @@
 
 - 시간복잡도
 
-  O(N^2)
+  1. Object Array : O(NlogN)
+  2. Primitive Array : O(N^2)
 
 ## Collections.sort()
 
