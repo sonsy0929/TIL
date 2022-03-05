@@ -1,12 +1,24 @@
 ## Arrays.sort()
 
-- 정렬방식 : Dual Pivot Quick Sort
-- 시간복잡도 : O(N^2)
+- 정렬방식
+
+  1) Object Array : Tim Sort (Merge Sort + Insertion Sort)
+  2) Primitive Array : Dual Pivot Quick Sort
+
+- 시간복잡도
+
+  O(N^2)
 
 ## Collections.sort()
 
-- 정렬방식 : Timsort (삽입 정렬과 합병 정렬을 결합하여 만든 정렬)
+- 정렬방식
 
-- 시간복잡도 : O(NlogN)
+  Tim Sort (Merge Sort + Insertion Sort)
 
-- https://d2.naver.com/helloworld/0315536
+- 시간복잡도
+
+  O(NlogN)
+
+- Tim Sort
+
+  https://d2.naver.com/helloworld/0315536
